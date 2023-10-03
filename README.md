@@ -1,3 +1,1 @@
-# .github.io
-GitHub Pages test
-modifications
+# MKdocs-test
